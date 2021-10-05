@@ -1,0 +1,28 @@
+<p>
+  <font color= "#00008B" size = "5">
+      Selecione o Curso:
+  </font>
+</p>
+
+<form name = "Cadastrar" method = "GET"></form>
+
+  <div>
+    <label><input type = "radio" id = "fullstrack" name = "curso" > Fullstrack </label>  
+  </div>
+
+<div>
+  <label><input type = "radio" id = "backend" name = "curso" > Backend </label>  
+</div>
+
+<div>
+  <label><input type = "radio" id = "frontend" name = "curso" > Frontend </label>  
+</div>
+
+<div>
+  <label><input type = "radio" id ="hadware" name = "curso" > Hadware </label>  
+</div>
+
+<br />
+
+<input type = "submit" value = "Enviar"/>
+
