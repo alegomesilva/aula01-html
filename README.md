@@ -35,3 +35,25 @@ Your Pages site will use the layout and styles from the Jekyll theme you have se
 ### Support or Contact
 
 Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+
+
+<!DOCTYPE html>
+<html lang="en">
+
+    <head>
+      <meta charset="UTF-8">
+      <title>Document</title>
+    </head>
+    
+  <body>
+    <meta property = "og: locale" content = "pt-br"/>
+    <meta property = "og: type" content = "video.movie"/>
+    <meta property = "og: title" content = "Legião Urbana - Faroeste Caboclo" />
+    <meta property = "og: video" content= "https://www.youtube.com/watch?v=eL6zdEwRKws"/>
+    <meta property = "og: url" content = "https://www.vagalume.com.br/legiao-urbana/faroeste-cabloco.html" />
+    <meta property = "og: image" content = "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ70GhaJmOcFPAnsaoPhvq4JDjHn6sQhG6dPg&usqp=CAU" />
+  </body>
+
+
+
+</html>
